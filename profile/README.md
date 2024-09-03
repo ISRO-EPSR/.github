@@ -48,25 +48,53 @@ Please read our [Contribution Guidelines](CONTRIBUTING.md) for more information.
 
 ## 👥 Our Team
 
-Meet the awesome people behind [Organization Name]:
+Meet the awesome people behind Byte Club:
 
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/username1">
+      <a href="https://github.com/nileshyadavme">
         <img src="https://github.com/username1.png" width="100px;" alt=""/>
         <br />
-        <sub><b>Full Name</b></sub>
+        <sub><b>Nilesh Kumar Yadav</b></sub>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/username2">
         <img src="https://github.com/username2.png" width="100px;" alt=""/>
         <br />
-        <sub><b>Full Name</b></sub>
+        <sub><b>Vibhor Srivastava</b></sub>
       </a>
     </td>
     <!-- Add more team members as needed -->
+    <td align="center">
+      <a href="https://github.com/username2">
+        <img src="https://github.com/username2.png" width="100px;" alt=""/>
+        <br />
+        <sub><b>Shivam Singh</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/username2">
+        <img src="https://github.com/username2.png" width="100px;" alt=""/>
+        <br />
+        <sub><b>Bhavya Verma</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/username2">
+        <img src="https://github.com/username2.png" width="100px;" alt=""/>
+        <br />
+        <sub><b>Riya Shukla</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/username2">
+        <img src="https://github.com/username2.png" width="100px;" alt=""/>
+        <br />
+        <sub><b>Drone Trihan</b></sub>
+      </a>
+    </td>
   </tr>
 </table>
 
