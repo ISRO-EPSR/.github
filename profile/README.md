@@ -104,11 +104,6 @@ Meet the awesome people behind Byte Club:
 - Email: contact@yourorganization.com
 - Twitter: [@YourOrg](https://twitter.com/YourOrg)
 - LinkedIn: [Your Organization](https://www.linkedin.com/company/yourorg)
-
-## 📄 License
-
-Unless otherwise specified, all projects under [Organization Name] are licensed under the [License Name] - see the [LICENSE](LICENSE) file for details.
-
 ---
 
 ⭐️ From [Organization Name](https://github.com/orgname)
