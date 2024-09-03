@@ -1,6 +1,7 @@
 # Welcome to Byte Club 👋
 
-![Organization Banner](https://github.com/ISRO-EPSR/.github/blob/main/profile/img/5.jpeg)
+![Organization Banner](![WhatsApp Image 2024-09-04 at 01 11 58_326730a1](https://github.com/user-attachments/assets/ae6d3c9e-71ba-4db3-a661-88e81d4bc147)
+)
 
 ## 🚀 About Us
 
