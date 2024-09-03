@@ -4,7 +4,7 @@
 
 ## 🚀 About Us
 
-Byte Club is dedicated to . We're passionate about [key areas of interest or expertise] and committed to [main goals or principles].
+We're Byte Club, a team of code wizards and lunar enthusiasts on a mission to shed light on the Moon's darkest secrets. Our playground? The Permanently Shadowed Regions (PSRs) of lunar craters.
 
 ## 🌟 Our Projects
 
