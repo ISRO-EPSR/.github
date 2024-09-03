@@ -1,10 +1,10 @@
-# Welcome to [Organization Name] 👋
+# Welcome to Byte Club 👋
 
 ![Organization Banner](https://via.placeholder.com/1200x300.png?text=Organization+Banner)
 
 ## 🚀 About Us
 
-[Organization Name] is dedicated to [brief description of your organization's mission or focus]. We're passionate about [key areas of interest or expertise] and committed to [main goals or principles].
+Byte Club is dedicated to . We're passionate about [key areas of interest or expertise] and committed to [main goals or principles].
 
 ## 🌟 Our Projects
 
