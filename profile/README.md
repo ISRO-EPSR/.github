@@ -60,7 +60,7 @@ Meet the awesome people behind Byte Club:
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/username2">
+      <a href="https://github.com/vibhor1919">
         <img src="https://github.com/username2.png" width="100px;" alt=""/>
         <br />
         <sub><b>Vibhor Srivastava</b></sub>
@@ -68,7 +68,7 @@ Meet the awesome people behind Byte Club:
     </td>
     <!-- Add more team members as needed -->
     <td align="center">
-      <a href="https://github.com/username2">
+      <a href="https://github.com/shrishivam2811">
         <img src="https://github.com/username2.png" width="100px;" alt=""/>
         <br />
         <sub><b>Shivam Singh</b></sub>
@@ -82,14 +82,14 @@ Meet the awesome people behind Byte Club:
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/username2">
+      <a href="https://github.com/Riyaaaa07">
         <img src="https://github.com/username2.png" width="100px;" alt=""/>
         <br />
         <sub><b>Riya Shukla</b></sub>
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/username2">
+      <a href="https://github.com/maybedrone">
         <img src="https://github.com/username2.png" width="100px;" alt=""/>
         <br />
         <sub><b>Drone Trihan</b></sub>
