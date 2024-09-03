@@ -1,6 +1,6 @@
 # Welcome to Byte Club 👋
 
-![Organization Banner](profile/img/5.jpeg)
+![Organization Banner](https://github.com/ISRO-EPSR/.github/blob/main/profile/img/5.jpeg)
 
 ## 🚀 About Us
 
