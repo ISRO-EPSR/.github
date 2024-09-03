@@ -4,7 +4,14 @@
 
 ## 🚀 About Us
 
-We're Byte Club, a team of code wizards and lunar enthusiasts on a mission to shed light on the Moon's darkest secrets. Our playground? The Permanently Shadowed Regions (PSRs) of lunar craters.
+Byte Club is a dedicated team which works to enhance our understanding of the Moon's most challenging terrains. Our diverse backgrounds and shared passion drive us to push the boundaries of image processing technology in service of lunar exploration.
+Our mission is to develop innovative solutions for enhancing ultra-low-light images from the Moon's Permanently Shadowed Regions (PSRs). By transforming barely perceptible signals into clear, interpretable data, we aim to provide crucial insights for future lunar missions and scientific research.
+
+Our Approach
+
+Advanced AI Adaptation: We're customizing state-of-the-art deep learning models, such as MIRNet, to address the unique challenges of lunar low-light imagery.
+Custom Algorithm Development: Our team is creating bespoke image processing algorithms tailored to the specific characteristics of PSR images.
+User-Centric Tool Creation: We're developing intuitive, powerful tools to empower researchers and mission planners in their analysis of enhanced lunar imagery.
 
 ## 🌟 Our Projects
 
