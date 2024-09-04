@@ -59,7 +59,7 @@ Meet the awesome people behind Byte Club:
       <a href="https://github.com/shrishivam2811">
         <img src="https://github.com/username2.png" width="100px;" alt=""/>
         <br />
-        <sub><b>ShRiShivam</b></sub>
+        <sub><b>ShRi Shivam</b></sub>
       </a>
     </td>
     <td align="center">
