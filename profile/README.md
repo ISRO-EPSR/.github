@@ -89,9 +89,6 @@ Meet the awesome people behind Byte Club:
 ## 📬 Contact Us
 
 - Website: [https://luna-byteclub.vercel.app/](https://luna-byteclub.vercel.app/)
-- Email: contact@yourorganization.com
-- Twitter: [@YourOrg](https://twitter.com/YourOrg)
-- LinkedIn: [Your Organization](https://www.linkedin.com/company/yourorg)
 ---
 
 ⭐️ From [Byte Club](https://github.com/ISRO-EPSR)
