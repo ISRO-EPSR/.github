@@ -94,4 +94,4 @@ Meet the awesome people behind Byte Club:
 - LinkedIn: [Your Organization](https://www.linkedin.com/company/yourorg)
 ---
 
-⭐️ From [Organization Name](https://github.com/orgname)
+⭐️ From [Organization Name](https://github.com/ISRO-EPSR)
