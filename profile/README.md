@@ -42,7 +42,7 @@ Meet the awesome people behind Byte Club:
   <tr>
     <td align="center">
       <a href="https://github.com/nileshyadavme">
-        <img src="https://github.com/username1.png" width="100px;" alt=""/>
+        <img src="https://github.com/ISRO-EPSR/LUNAUI/blob/main/public/assets/assets/indra.jpg" width="100px;" alt=""/>
         <br />
         <sub><b>Nilesh Kumar Yadav</b></sub>
       </a>
