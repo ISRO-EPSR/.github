@@ -13,26 +13,6 @@ Advanced AI Adaptation: We're customizing state-of-the-art deep learning models,
 Custom Algorithm Development: Our team is creating bespoke image processing algorithms tailored to the specific characteristics of PSR images.
 User-Centric Tool Creation: We're developing intuitive, powerful tools to empower researchers and mission planners in their analysis of enhanced lunar imagery.
 
-## 🌟 Our Projects
-
-Here are some of our flagship projects:
-
-### [Project 1 Name]
-[![GitHub stars](https://img.shields.io/github/stars/orgname/project1.svg?style=social)](https://github.com/orgname/project1)
-
-Brief description of Project 1. [Learn more](https://github.com/orgname/project1)
-
-### [Project 2 Name]
-[![GitHub stars](https://img.shields.io/github/stars/orgname/project2.svg?style=social)](https://github.com/orgname/project2)
-
-Brief description of Project 2. [Learn more](https://github.com/orgname/project2)
-
-### [Project 3 Name]
-[![GitHub stars](https://img.shields.io/github/stars/orgname/project3.svg?style=social)](https://github.com/orgname/project3)
-
-Brief description of Project 3. [Learn more](https://github.com/orgname/project3)
-
-[View all projects →](https://github.com/orgs/orgname/repositories)
 
 ## 👥 Our Team
 
